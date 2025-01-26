@@ -13,8 +13,8 @@ public class Basic {
         
 
         
-       // String strF=str+str2;
-       // System.out.println(str);
+        String strF=str+str2;
+        System.out.println(str);
       //  System.out.println(str.charAt(1));
 
 
